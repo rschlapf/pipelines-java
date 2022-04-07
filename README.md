@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/robinschlaepfer/cab_fs22_team7/_apis/build/status/rschlapf.pipelines-java?branchName=refs%2Fpull%2F1%2Fmerge)](https://dev.azure.com/robinschlaepfer/cab_fs22_team7/_build/latest?definitionId=1&branchName=refs%2Fpull%2F1%2Fmerge)
 
 # Contributing
 
